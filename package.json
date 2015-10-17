@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "async": "^1.4.2",
+    "cheerio": "^0.19.0",
+    "d3": "^3.5.6",
+    "googlemaps": "^1.0.2",
+    "inquirer": "^0.10.1",
+    "moment": "^2.10.6",
+    "nchart": "^1.0.1",
+    "needle": "^0.10.0",
+    "pg": "^4.4.2",
+    "phantom": "^0.8.0",
+    "plotly": "^1.0.2",
+    "request": "^2.65.0"
+  }
+}
